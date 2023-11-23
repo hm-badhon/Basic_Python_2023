@@ -1,32 +1,26 @@
 # Basic_Python_2023
 
-## Week 1
-## Python Practice Scripts
+# Day-wise Project
 
-This repository contains a series of Python scripts covering fundamental programming concepts. Each script addresses a specific topic and provides an example or exercise to practice.
+This project is organized into day-wise directories, with each week focusing on different tasks or topics.
 
-## List of Scripts
+## Project Structure
 
-1. **[ifelse.py](ifelse.py):** Introduction to if-else statements.
-2. **[arithmetic_operation.py](arithmetic_operation.py):** Basic arithmetic operations in Python.
-3. **[loops.py](loops.py):** Overview of different types of loops.
-4. **[division.py](division.py):** Understanding division in Python.
-5. **[leap_year.py](leap_year.py):** Checking for leap years using Python.
-6. **[print_function.py](print_function.py):** Using the `print` function for output.
-7. **[floor_ceil_rint.py](floor_ceil_rint.py):** Working with floor, ceil, and rint functions.
-8. **[sum_and_prod.py](sum_and_prod.py):** Calculating the sum and product of elements in an array.
-9. **[list_comprehension.py](list_comprehension.py):** Introduction to list comprehension.
-10. **[find_the_runner_up_score.py](find_the_runner_up_score.py):** Finding the runner-up score in an array.
-11. **[loop.py](loop.py):** Another script related to loops.
-12. **[list.py](list.py):** Working with lists in Python.
-13. **[range.py](range.py):** Understanding the range function in Python.
-14. **[data_types_dict.py](data_types_dict.py):** Examples related to dictionary data type.
-15. **[tuples.py](tuples.py):** Introduction to tuples.
-16. **[list_and_dictionary_comprehension.py](list_and_dictionary_comprehension.py):** Combined examples of list and dictionary comprehension.
+- **week 1:** Day-wise tasks or topics for the first week.
+- **week 2:** Files uploaded for the second week.
+- **week 3:** Materials and files from the third week.
+- **week 4:** Contents related to the fourth week.
+- **week 5:** Materials for the fifth week.
+- **Day_wise_something:** Additional files uploaded recently.
 
 ## Usage
 
-Feel free to explore each script to understand and practice the associated Python concept. Run the scripts using a Python interpreter.
+Explore the directories for each week to find relevant materials, tasks, or topics covered during that specific period. Each week's directory may contain files, code, or documentation related to the activities.
+
+## Updates
+
+- **2 days ago:** New files uploaded to the project directory.
+- **5 minutes ago:** README.md file updated.
 
 ## Contributors
 
@@ -39,3 +33,8 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+**Note:** Replace "Your Name" and "your-username" with your actual name and GitHub username, and customize the content based on your preferences and the specifics of your project.
+
