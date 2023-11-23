@@ -1,7 +1,7 @@
 # Basic_Python_2023
 
-# Week 1
-# Python Practice Scripts
+## Week 1
+## Python Practice Scripts
 
 This repository contains a series of Python scripts covering fundamental programming concepts. Each script addresses a specific topic and provides an example or exercise to practice.
 
